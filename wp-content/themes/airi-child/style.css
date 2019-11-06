@@ -1,0 +1,43 @@
+/*
+Theme Name: Airi Child
+Theme URI: http://athemes.com/theme/airi
+Author: aThemes
+Author URI: http://athemes.com
+Template: airi
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: airi
+*/
+#page header#masthead {
+    background: transparent;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.site-title a {
+font-weight: bold !important;    
+}
+
+.sticky-wrapper{
+	position: absolute;
+left: 0;
+right: 0;
+	top: 0;
+	    z-index: 9;
+}
+
+.submit-button input.wpcf7-form-control.wpcf7-submit{
+background-color: #24b24b !important;
+	padding: 12px 70px !important;
+}
+
+/*.main-navigation li:last-child {
+    background: #24b24b !important; 
+}
+.page-id-203 .main-navigation li:hover {
+    background: rgba(255,255,255,0.9);
+}*/
+
+.site-header.test_math {
+    background-color: #161719 !important;
+}
